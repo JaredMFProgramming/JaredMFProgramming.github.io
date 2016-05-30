@@ -1,0 +1,14 @@
+body {
+background-image: -webkit-gradient(
+	linear,
+	right bottom,
+	left bottom,
+	color-stop(0, rgb(0, 255, 0)),
+	color-stop(1, rgb(255, 0, 0))
+);
+background-image: -o-linear-gradient(left, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 100%);
+background-image: -moz-linear-gradient(left, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 100%);
+background-image: -webkit-linear-gradient(left, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 100%);
+background-image: -ms-linear-gradient(left, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 100%);
+background-image: linear-gradient(to left, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 100%);
+}
