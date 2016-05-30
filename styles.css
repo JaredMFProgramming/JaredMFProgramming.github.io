@@ -13,6 +13,11 @@ background-image: -ms-linear-gradient(right, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 1
 background-image: linear-gradient(to right, rgb(0, 255, 0) 0%, rgb(255, 0, 0) 100%);
 }
 
+h1 {
+color: lime
+}
+
 p {
-color: rgb (255, 255, 0)
+color: yellow;
+text-align: center;
 }
