@@ -3,4 +3,4 @@ Here I store all these crazy homemade applications for your use and entertainmen
 ## PortableApps
 Dive into the wacky PortableApps world of Jared M.F., with a variety of portable applications to choose from!
 
-[Click here to learn more...](https://StudioMFTechnologies.github.io/PortableApps/
+[Click here to learn more...](https://StudioMFTechnologies.github.io/PortableApps/)
