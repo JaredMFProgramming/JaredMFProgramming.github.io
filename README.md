@@ -1,4 +1,4 @@
-# JaredMFProgramming.github.io
-The official website for Jared M.F.'s programming!
+# StudioMFTechnologies.github.io
+The official website for my future software development studio!
 
 You can also check out my Tumblr on https://jared-funtime.tumblr.com/
